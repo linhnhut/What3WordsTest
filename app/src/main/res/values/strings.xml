@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">What3WordsTest</string>
+    <string name="search">Search</string>
+    <string name="clear_search_text">Clear search text</string>
+    <string name="score">Score:&#032;</string>
+    <string name="year">Year:&#032;</string>
+    <string name="details">Details</string>
+
+</resources>
